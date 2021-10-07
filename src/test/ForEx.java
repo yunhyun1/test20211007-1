@@ -13,6 +13,8 @@ public class ForEx {
 //			System.out.println();
 			System.out.print("\n"); // new line 
 			System.out.println("dd  ");
+			System.out.println("dd  ");
+			System.out.println("dd  ");
 		}
 	}
 }

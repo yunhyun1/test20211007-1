@@ -5,13 +5,14 @@ import java.util.Scanner;
 public class ForEx {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		for (int i = 2; i <= 9; i++) {// ¸î´ÜÀÎÁö¸¦ À§ÇØ 
-			for (int j = 1; j <= 9; j++) { // µÚ¿¡ °öÇØÁö´Â ¼ýÀÚ¸¦ À§ÇØ 
+		for (int i = 2; i <= 9; i++) {// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ 
+			for (int j = 1; j <= 9; j++) { // ï¿½Ú¿ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ú¸ï¿½ ï¿½ï¿½ï¿½ï¿½ 
 				System.out.print(i + "x" + j + "=" + (i * j));
 				System.out.print("\t"); // tab
 			}
 //			System.out.println();
 			System.out.print("\n"); // new line 
+			System.out.println("dd");
 		}
 	}
 }
